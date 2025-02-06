@@ -1,2 +1,1 @@
-# FindFactorial
-Simple Program to Find Factorial
+Note, this program supports only small numbers.
